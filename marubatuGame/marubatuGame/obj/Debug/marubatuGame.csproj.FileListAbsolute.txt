@@ -1,0 +1,10 @@
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\bin\Debug\marubatuGame.exe.config
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\bin\Debug\marubatuGame.exe
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\bin\Debug\marubatuGame.pdb
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\obj\Debug\marubatuGame.csproj.AssemblyReference.cache
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\obj\Debug\marubatuGame.Properties.Resources.resources
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\obj\Debug\marubatuGame.csproj.GenerateResource.cache
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\obj\Debug\marubatuGame.csproj.CoreCompileInputs.cache
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\obj\Debug\marubatuGame.exe
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\obj\Debug\marubatuGame.pdb
+C:\Users\koror\source\repos\marubatuGame\marubatuGame\obj\Debug\marubatuGame.Form1.resources

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koror\\source\\repos\\marubatuGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20C6D0-5BA0-41AD-A0D2-29EFD62B268F}|marubatuGame\\marubatuGame.csproj|c:\\users\\koror\\source\\repos\\marubatugame\\marubatugame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20C6D0-5BA0-41AD-A0D2-29EFD62B268F}|marubatuGame\\marubatuGame.csproj|solutionrelative:marubatugame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20C6D0-5BA0-41AD-A0D2-29EFD62B268F}|marubatuGame\\marubatuGame.csproj|C:\\Users\\koror\\source\\repos\\marubatuGame\\marubatugame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A20C6D0-5BA0-41AD-A0D2-29EFD62B268F}|marubatuGame\\marubatuGame.csproj|solutionrelative:marubatugame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20C6D0-5BA0-41AD-A0D2-29EFD62B268F}|marubatuGame\\marubatuGame.csproj|C:\\Users\\koror\\source\\repos\\marubatuGame\\marubatugame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20C6D0-5BA0-41AD-A0D2-29EFD62B268F}|marubatuGame\\marubatuGame.csproj|solutionrelative:marubatugame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\koror\\source\\repos\\marubatuGame\\marubatuGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "marubatuGame\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\koror\\source\\repos\\marubatuGame\\marubatuGame\\Form1.Designer.cs",
+              "RelativeToolTip": "marubatuGame\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:51:22.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\koror\\source\\repos\\marubatuGame\\marubatuGame\\Form1.cs",
+              "RelativeDocumentMoniker": "marubatuGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\koror\\source\\repos\\marubatuGame\\marubatuGame\\Form1.cs",
+              "RelativeToolTip": "marubatuGame\\Form1.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwIIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:21:01.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\koror\\source\\repos\\marubatuGame\\marubatuGame\\Form1.cs",
+              "RelativeDocumentMoniker": "marubatuGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\koror\\source\\repos\\marubatuGame\\marubatuGame\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "marubatuGame\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:12:18.765Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
